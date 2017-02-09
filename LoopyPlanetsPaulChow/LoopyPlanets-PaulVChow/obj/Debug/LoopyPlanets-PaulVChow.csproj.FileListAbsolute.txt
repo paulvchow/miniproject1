@@ -1,0 +1,33 @@
+D:\Documents\VisualStudio\LoopyPlanets-PaulVChow\LoopyPlanets-PaulVChow\bin\Debug\LoopyPlanets-PaulVChow.exe.config
+D:\Documents\VisualStudio\LoopyPlanets-PaulVChow\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets-PaulVChow.csprojResolveAssemblyReference.cache
+D:\Documents\VisualStudio\LoopyPlanets-PaulVChow\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets_PaulVChow.Form1.resources
+D:\Documents\VisualStudio\LoopyPlanets-PaulVChow\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets_PaulVChow.Properties.Resources.resources
+D:\Documents\VisualStudio\LoopyPlanets-PaulVChow\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets-PaulVChow.csproj.GenerateResource.Cache
+D:\Documents\VisualStudio\LoopyPlanets-PaulVChow\LoopyPlanets-PaulVChow\bin\Debug\LoopyPlanets-PaulVChow.exe
+D:\Documents\VisualStudio\LoopyPlanets-PaulVChow\LoopyPlanets-PaulVChow\bin\Debug\LoopyPlanets-PaulVChow.pdb
+D:\Documents\VisualStudio\LoopyPlanets-PaulVChow\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets-PaulVChow.exe
+D:\Documents\VisualStudio\LoopyPlanets-PaulVChow\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets-PaulVChow.pdb
+C:\Users\Student\Desktop\New folder\LoopyPlanets-PaulVChow\bin\Debug\LoopyPlanets-PaulVChow.exe.config
+C:\Users\Student\Desktop\New folder\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets-PaulVChow.exe
+C:\Users\Student\Desktop\New folder\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets-PaulVChow.pdb
+C:\Users\Student\Desktop\New folder\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets-PaulVChow.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\New folder\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets_PaulVChow.Form1.resources
+C:\Users\Student\Desktop\New folder\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets_PaulVChow.Properties.Resources.resources
+C:\Users\Student\Desktop\New folder\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets-PaulVChow.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\New folder\LoopyPlanets-PaulVChow\bin\Debug\LoopyPlanets-PaulVChow.exe
+C:\Users\Student\Desktop\New folder\LoopyPlanets-PaulVChow\bin\Debug\LoopyPlanets-PaulVChow.pdb
+C:\Users\Pol\Desktop\New folder\LoopyPlanets-PaulVChow\bin\Debug\LoopyPlanets-PaulVChow.exe.config
+C:\Users\Pol\Desktop\New folder\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets-PaulVChow.exe
+C:\Users\Pol\Desktop\New folder\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets-PaulVChow.pdb
+C:\Users\Pol\Desktop\New folder\LoopyPlanets-PaulVChow\bin\Debug\LoopyPlanets-PaulVChow.exe
+C:\Users\Pol\Desktop\New folder\LoopyPlanets-PaulVChow\bin\Debug\LoopyPlanets-PaulVChow.pdb
+C:\Users\Pol\Desktop\New folder\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets-PaulVChow.csprojResolveAssemblyReference.cache
+C:\Users\Pol\Desktop\New folder\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets_PaulVChow.Form1.resources
+C:\Users\Pol\Desktop\New folder\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets_PaulVChow.Properties.Resources.resources
+C:\Users\Pol\Desktop\New folder\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets-PaulVChow.csproj.GenerateResource.Cache
+C:\Users\Pol\Desktop\LoopyPlanetsPaulChow\LoopyPlanets-PaulVChow\bin\Debug\LoopyPlanets-PaulVChow.exe.config
+C:\Users\Pol\Desktop\LoopyPlanetsPaulChow\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets-PaulVChow.exe
+C:\Users\Pol\Desktop\LoopyPlanetsPaulChow\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets-PaulVChow.pdb
+C:\Users\Student\Desktop\LoopyPlanetsPaulChow\LoopyPlanets-PaulVChow\bin\Debug\LoopyPlanets-PaulVChow.exe.config
+C:\Users\Student\Desktop\LoopyPlanetsPaulChow\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets-PaulVChow.exe
+C:\Users\Student\Desktop\LoopyPlanetsPaulChow\LoopyPlanets-PaulVChow\obj\Debug\LoopyPlanets-PaulVChow.pdb
