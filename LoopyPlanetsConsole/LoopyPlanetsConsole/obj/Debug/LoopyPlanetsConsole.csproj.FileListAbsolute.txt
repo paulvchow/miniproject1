@@ -1,0 +1,12 @@
+c:\users\student\documents\visual studio 2015\Projects\LoopyPlanetsConsole\LoopyPlanetsConsole\bin\Debug\LoopyPlanetsConsole.exe.config
+c:\users\student\documents\visual studio 2015\Projects\LoopyPlanetsConsole\LoopyPlanetsConsole\obj\Debug\LoopyPlanetsConsole.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\LoopyPlanetsConsole\LoopyPlanetsConsole\bin\Debug\LoopyPlanetsConsole.exe
+c:\users\student\documents\visual studio 2015\Projects\LoopyPlanetsConsole\LoopyPlanetsConsole\bin\Debug\LoopyPlanetsConsole.pdb
+c:\users\student\documents\visual studio 2015\Projects\LoopyPlanetsConsole\LoopyPlanetsConsole\obj\Debug\LoopyPlanetsConsole.exe
+c:\users\student\documents\visual studio 2015\Projects\LoopyPlanetsConsole\LoopyPlanetsConsole\obj\Debug\LoopyPlanetsConsole.pdb
+C:\Users\Pol\Desktop\LoopyPlanetsConsole\LoopyPlanetsConsole\bin\Debug\LoopyPlanetsConsole.exe.config
+C:\Users\Pol\Desktop\LoopyPlanetsConsole\LoopyPlanetsConsole\obj\Debug\LoopyPlanetsConsole.exe
+C:\Users\Pol\Desktop\LoopyPlanetsConsole\LoopyPlanetsConsole\obj\Debug\LoopyPlanetsConsole.pdb
+C:\Users\Pol\Desktop\LoopyPlanetsConsole\LoopyPlanetsConsole\bin\Debug\LoopyPlanetsConsole.exe
+C:\Users\Pol\Desktop\LoopyPlanetsConsole\LoopyPlanetsConsole\bin\Debug\LoopyPlanetsConsole.pdb
+C:\Users\Pol\Desktop\LoopyPlanetsConsole\LoopyPlanetsConsole\obj\Debug\LoopyPlanetsConsole.csprojResolveAssemblyReference.cache
